@@ -1,0 +1,19 @@
+.movies__list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+  }
+  
+  .movies__item {
+    margin-bottom: 15px;
+  }
+  
+  .movies__card {
+    margin: 0;
+    padding: 0;
+    width: 90px;
+  }
+ 
